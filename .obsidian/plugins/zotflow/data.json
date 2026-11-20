@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "librariesConfig": {
+      "6266901": {
+        "mode": "ignored"
+      },
+      "6641007": {
+        "mode": "ignored"
+      },
+      "6771825": {
+        "mode": "bidirectional"
+      },
+      "14554123": {
+        "mode": "ignored"
+      }
+    },
+    "syncInterval": 30,
+    "autoSync": false,
+    "useWebDav": false,
+    "useCache": true,
+    "maxCacheSizeMB": 500,
+    "librarySourceNoteTemplatePath": "project-management-vault/templates/ZotFlow Default Template.md",
+    "sourceNoteFolder": "",
+    "librarySourceNotePathTemplate": "Source/{{libraryName}}/@{{citationKey | default: title | default: key}}",
+    "localSourceNoteTemplatePath": "",
+    "localSourceNoteFolder": "",
+    "localSidecarFolder": "",
+    "localSourceNotePathTemplate": "project-management-vault/ZotFlow/Local/@{{basename}}",
+    "autoImportAnnotationImages": true,
+    "annotationImageFolder": "Source/Images",
+    "overwriteViewer": true,
+    "readerColorScheme": "obsidian-theme",
+    "defaultLightTheme": "obsidian",
+    "defaultDarkTheme": "obsidian",
+    "treeCollectionSort": "name-asc",
+    "treeItemSort": "title-asc",
+    "treeSingleClickOpen": false,
+    "itemDisplayTitleTemplate": "",
+    "convertNoteLinks": true,
+    "linkedAttachmentBaseDir": "",
+    "useZoteroStorage": true,
+    "zoteroStoragePath": "/home/aidev/Zotero/storage",
+    "defaultEditableRegionLocked": true,
+    "hideEditableRegionMarkers": false,
+    "alwaysOpenChildNoteInEditor": false,
+    "defaultCitationFormat": "footnote",
+    "citationTrigger": "@@",
+    "citationPandocTemplate": "",
+    "citationFootnoteRefTemplate": "",
+    "citationFootnoteTemplate": "",
+    "citationWikilinkTemplate": "",
+    "autoCopyAnnotation": "off",
+    "autoUpdateSourceNotesAfterSync": true,
+    "autoPurgeTrashedSourceNotes": false,
+    "autoDisableNoteImageTextTools": true,
+    "epubFontFamily": "",
+    "cslDefaultStyleId": "apa",
+    "cslDefaultFormat": "markdown",
+    "cslStylesFolder": ""
+  },
+  "customThemes": [],
+  "viewStates": {}
+}
