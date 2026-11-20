@@ -9,6 +9,7 @@ year: {{ item.year }}
 url: {{ item.url | json }}
 doi: {{ item.DOI | json }}
 tags: [{% for t in item.tags %}{{ t.tag | replace: " ", "_" }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+_archived: true
 ---
 {%- capture quote_string %}{{ newline }}> {% endcapture -%}
 {%- capture quote_string_2 %}{{ newline }}> >{% endcapture -%}

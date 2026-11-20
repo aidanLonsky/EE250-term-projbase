@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1680247b463bfd4b",
+        "id": "e260bd8fdaa0f191",
         "type": "tabs",
         "children": [
           {
-            "id": "2f40b7f4a66dd9db",
+            "id": "13d834c1fa779e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "project-management-vault/project 1.md",
+                "file": "ZotFlow/EE250-term-proj/@EE250_Fall2026_Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "project 1"
+              "title": "@EE250_Fall2026_Project"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "project-management-vault/project 1.md",
+                "file": "ZotFlow/EE250-term-proj/@EE250_Fall2026_Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "project-management-vault/project 1.md",
+                "file": "ZotFlow/EE250-term-proj/@EE250_Fall2026_Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "project-management-vault/project 1.md",
+                "file": "ZotFlow/EE250-term-proj/@EE250_Fall2026_Project.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,20 +200,52 @@
       "zotflow:ZotFlow: Search Zotero": false
     }
   },
-  "active": "2f40b7f4a66dd9db",
+  "active": "13d834c1fa779e51",
   "lastOpenFiles": [
-    "project-management-vault/project.md",
-    "project-management-vault/project 1.md",
-    "project-management-vault/topic.md",
+    "ZotFlow/EE250-term-proj/@EE250_Fall2026_Project.md",
+    "ZotFlow/Images/KKB5DI7P.png",
+    "ZotFlow/Images/AYWMK26N.png",
+    "ZotFlow/Images/AGSYND2E.png",
+    "ZotFlow/Images",
+    "ZotFlow/EE250-term-proj",
     "project-management-vault/type.md",
-    "project-management-vault/tolaria.md",
-    "project-management-vault/portent.md",
-    "project-management-vault/person.md",
-    "project-management-vault/operation.md",
-    "project-management-vault/README.md",
-    "project-management-vault/note.md",
-    "project-management-vault/_Templates/ZotFlow Default Template.md",
-    "project-management-vault/ZotFlow",
-    "project-management-vault/_Templates"
+    "ZotFlow",
+    "type.md",
+    "topic.md",
+    "tolaria.md",
+    "_Templates/ZotFlow Default Template.md",
+    "_Templates",
+    "task.md",
+    "responsibility.md",
+    "README.md",
+    "project.md",
+    "portent.md",
+    "person.md",
+    "operation.md",
+    "note.md",
+    "milestones.md",
+    "luca-rossi.md",
+    "LICENSE",
+    "introducing-portent.md",
+    "how-i-run-tolaria.md",
+    "event.md",
+    "_Attachments/1779192361579-27a48a2c-0aa1-473e-9807-defd6039ad71_1590x798.webp",
+    "_Attachments/1779192172503-5ce98f42-9873-4d3a-b923-8934818c97a3_2002x646.webp",
+    "_Attachments/1779192143116-a0d7f58e-9760-4550-a2a5-27afca7721db_1734x1052.webp",
+    "_Attachments/1779192098990-ef4d7e29-f069-4722-b425-f07a52f05aae_2010x1190.webp",
+    "_Attachments/1779192088154-a0d7f58e-9760-4550-a2a5-27afca7721db_1734x1052.webp",
+    "_Attachments/1777975101674-chart.jpeg",
+    "_Attachments/1777972833086-CleanShot_2026-05-05_at_11.03.57_2x.png",
+    "_Attachments",
+    "week-1.md",
+    "untitled-milestones-1795153691.md",
+    "project-management-vault/milestones.md",
+    "project-management-vault/ZotFlow/EE250-term-proj/@EE250_Fall2026_Project.md",
+    "project-management-vault/event.md",
+    "project-management-vault/ZotFlow/Images",
+    "project-management-vault/ZotFlow/EE250-term-proj",
+    "ZotFlowEE250-term-proj/@EE250_Fall2026_Project.md",
+    "ZotFlowEE250-term-proj",
+    "Source/Images"
   ]
 }

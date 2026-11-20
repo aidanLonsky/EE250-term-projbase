@@ -19,15 +19,15 @@
     "useWebDav": false,
     "useCache": true,
     "maxCacheSizeMB": 500,
-    "librarySourceNoteTemplatePath": "project-management-vault/templates/ZotFlow Default Template.md",
+    "librarySourceNoteTemplatePath": "_Templates/ZotFlow Default Template.md",
     "sourceNoteFolder": "",
-    "librarySourceNotePathTemplate": "Source/{{libraryName}}/@{{citationKey | default: title | default: key}}",
+    "librarySourceNotePathTemplate": "ZotFlow/{{libraryName}}/@{{citationKey | default: title | default: key}}",
     "localSourceNoteTemplatePath": "",
     "localSourceNoteFolder": "",
     "localSidecarFolder": "",
-    "localSourceNotePathTemplate": "project-management-vault/ZotFlow/Local/@{{basename}}",
+    "localSourceNotePathTemplate": "ZotFlow/Local/@{{basename}}",
     "autoImportAnnotationImages": true,
-    "annotationImageFolder": "Source/Images",
+    "annotationImageFolder": "ZotFlow/Images",
     "overwriteViewer": true,
     "readerColorScheme": "obsidian-theme",
     "defaultLightTheme": "obsidian",
@@ -36,7 +36,7 @@
     "treeItemSort": "title-asc",
     "treeSingleClickOpen": false,
     "itemDisplayTitleTemplate": "",
-    "convertNoteLinks": true,
+    "convertNoteLinks": false,
     "linkedAttachmentBaseDir": "",
     "useZoteroStorage": true,
     "zoteroStoragePath": "/home/aidev/Zotero/storage",
@@ -58,6 +58,26 @@
     "cslDefaultFormat": "markdown",
     "cslStylesFolder": ""
   },
-  "customThemes": [],
-  "viewStates": {}
+  "customThemes": [
+    {
+      "background": "#1C1C1C",
+      "foreground": "#dadada",
+      "id": "obsidian",
+      "label": "Obsidian"
+    }
+  ],
+  "viewStates": {
+    "6771825:C39SSY2Y": {
+      "secondaryViewState": null,
+      "primaryViewState": {
+        "pageIndex": 0,
+        "scale": "page-width",
+        "top": 792,
+        "left": -9,
+        "scrollMode": 0,
+        "spreadMode": 0,
+        "lastReadAloudPosition": null
+      }
+    }
+  }
 }
