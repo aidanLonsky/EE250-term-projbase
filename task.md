@@ -6,6 +6,7 @@ _icon: check
 _order: 3
 _list_properties_display:
   - "belongs_to"
+_sort: "title:asc"
 ---
 
 # Task

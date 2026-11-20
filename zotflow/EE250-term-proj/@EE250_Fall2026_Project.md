@@ -89,7 +89,7 @@ _archived: true
 ^LCLUCVM9
 
 > [!zotflow-image-#5fb236] [EE250_Fall2026_Project.pdf, p.2](obsidian://zotflow?type=open-annotation&libraryID=6771825&key=AGSYND2E)
-> > ![[ZotFlow/Images/AGSYND2E.png]]
+> > ![[attachments/zotflow-images/AGSYND2E.png]]
 >
 > <!-- ZF_ANNO_BEG_AGSYND2E -->
 > 
@@ -125,7 +125,7 @@ _archived: true
 ^3DIT9W66
 
 > [!zotflow-image-#2ea8e5] [EE250_Fall2026_Project.pdf, p.5](obsidian://zotflow?type=open-annotation&libraryID=6771825&key=AYWMK26N)
-> > ![[ZotFlow/Images/AYWMK26N.png]]
+> > ![[attachments/zotflow-images/AYWMK26N.png]]
 >
 > <!-- ZF_ANNO_BEG_AYWMK26N -->
 > 
@@ -134,7 +134,7 @@ _archived: true
 ^AYWMK26N
 
 > [!zotflow-image-#ffd400] [EE250_Fall2026_Project.pdf, p.5](obsidian://zotflow?type=open-annotation&libraryID=6771825&key=KKB5DI7P)
-> > ![[ZotFlow/Images/KKB5DI7P.png]]
+> > ![[attachments/zotflow-images/KKB5DI7P.png]]
 >
 > <!-- ZF_ANNO_BEG_KKB5DI7P -->
 > 
