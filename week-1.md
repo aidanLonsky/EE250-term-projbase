@@ -16,3 +16,9 @@ _favorite_index: 3
 - [ ] <!--XHGAx8SGvOiwB8Z9R-lv_--> **4. Fit on model.** Departure delay $D$ can be negative, so a lognormal cannot decribe all of it. Record $p_0 = P(D>0)$ then fit a lognormal distribution to the flights with $D>0$ only. Keep $p_0$ and the fitted parameters, because you will reuse them in Week 3. [[w1t4]]
 - [ ] <!--EFZ4wUqQhEXIRvsnnbPKR--> **5. QQ-plot.** Compare the quantiles of the flights with $D>0$ against the quantiles of your fitted lognormal, and mark where the points leave the diagonal. [[w1t5]]
 - [ ] <!--DCikCzS4M9xTBvMhcGyla--> **6. Joint table.** Cross-tabulate $C$ and $L$, as counts and as joint probabilities. Read off both marginals, and check that each one sums to 1. [[w1t6-joint-table]]
+## Appendix
+
+> 
+> "Every week ends with an assumption check: you state one assumption you relied on and say whether your data support it. **Week 1 checks that one model fits the whole distribution**"
+> 
+> — (EE250_Fall2026_Project.pdf, p.12) [zotero://open-pdf/groups/6771825/items/C39SSY2Y?page=12&annotation=KTRRM5G3]

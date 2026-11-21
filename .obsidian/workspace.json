@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zotflow/EE250-term-proj/@mckinneyPythonDataAnalysis2014.md",
+                "file": "zotflow/EE250-term-proj/@EE250_Fall2026_Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@mckinneyPythonDataAnalysis2014"
+              "title": "@EE250_Fall2026_Project"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "30342eb1849ef201",
   "lastOpenFiles": [
-    "zotflow/EE250-term-proj/@EE250_Fall2026_Project.md",
     "zotflow/EE250-term-proj/@mckinneyPythonDataAnalysis2014.md",
+    "zotflow/EE250-term-proj/@EE250_Fall2026_Project.md",
     "data-cleaning-and-sampling-using-pandas.md",
     "w1t6-joint-table.md",
     "untitled-task-1795192118.md",

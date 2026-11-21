@@ -2,9 +2,9 @@
 zotflow-locked: true
 zotero-key: BWX3VUWN
 library-id: 6771825
-item-version: 2
-item-tree: 7d36cad1
-library-version: 18
+item-version: 77
+item-tree: 199f194e
+library-version: 88
 citationKey: ""
 title: EE250_Fall2026_Project
 itemType: document
@@ -150,4 +150,22 @@ _archived: true
 > <!-- ZF_ANNO_END_2GJ39VQQ -->
 > 
 ^2GJ39VQQ
+
+> [!zotflow-highlight-#ff6666] [EE250_Fall2026_Project.pdf, p.11](obsidian://zotflow?type=open-annotation&libraryID=6771825&key=PJ2M3ETI)
+> > one reproducible notebook and one short report
+>
+> <!-- ZF_ANNO_BEG_PJ2M3ETI -->
+> I believe teacher said these can be the same Jupyter notebook (i.e. report written alongside Python code)
+> <!-- ZF_ANNO_END_PJ2M3ETI -->
+> 
+^PJ2M3ETI
+
+> [!zotflow-highlight-#ffd400] [EE250_Fall2026_Project.pdf, p.12](obsidian://zotflow?type=open-annotation&libraryID=6771825&key=KTRRM5G3)
+> > Every week ends with an assumption check: you state one assumption you relied on and say whether your data support it. Week 1 checks that one model fits the whole distribution
+>
+> <!-- ZF_ANNO_BEG_KTRRM5G3 -->
+> 
+> <!-- ZF_ANNO_END_KTRRM5G3 -->
+> 
+^KTRRM5G3
 

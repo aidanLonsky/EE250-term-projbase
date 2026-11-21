@@ -6,6 +6,9 @@ _organized: true
 ---
 # EE250-term-project
 
+![AGSYND2E.png](attachments/1795282381618-AGSYND2E.png)
+
+
 ***Root project index of useful links***
 
 - Main repo - [https://github.com/aidanLonsky/EE250-term-project](https://github.com/aidanLonsky/EE250-term-project)
