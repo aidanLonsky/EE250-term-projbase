@@ -4,7 +4,7 @@ _organized: true
 _favorite: true
 _favorite_index: 2
 ---
-# $ Week 1 Progress Report
+# $ Week 1 Progress Log
 
 **2026-11-20 15:54 - aidan**
 
