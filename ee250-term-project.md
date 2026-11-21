@@ -1,5 +1,8 @@
 ---
-type: Note
+_favorite: true
+_favorite_index: 1
+type: Responsibility
+_organized: true
 ---
 # EE250-term-project
 

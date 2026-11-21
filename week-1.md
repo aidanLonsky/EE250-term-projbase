@@ -1,5 +1,6 @@
 ---
 type: Milestones
+_organized: true
 ---
 # Week 1 - Wrangle and Clean_Fit One Distribution
 

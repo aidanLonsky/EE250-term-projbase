@@ -1,5 +1,8 @@
 ---
 type: Topic
+_organized: true
+_favorite: true
+_favorite_index: 2
 ---
 # $ Week 1 Progress Report
 

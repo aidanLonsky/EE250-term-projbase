@@ -1,6 +1,7 @@
 ---
 type: Task
 belongs_to: "[[week-1]]"
+_organized: true
 ---
 # W1T6 - Joint Table
 
