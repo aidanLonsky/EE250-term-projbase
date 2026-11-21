@@ -6,6 +6,8 @@ _favorite_index: 3
 ---
 # Week 1 - Wrangle and Clean_Fit One Distribution
 
+*use* [[week-1-progress-report]] *to capture any "commentary" (thoughts) you want to share on this week's work*
+
 ![KKB5DI7P.png](attachments/1795191172325-KKB5DI7P.png)
 
 - [ ] <!--H35btM3Zjjziga2MyXKE9--> **1. Clean and sample** your slice using the rules in the previous section, and report the final number of flights [[w1t1]]
