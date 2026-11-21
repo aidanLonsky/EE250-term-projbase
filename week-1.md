@@ -18,7 +18,6 @@ _favorite_index: 3
 - [ ] <!--DCikCzS4M9xTBvMhcGyla--> **6. Joint table.** Cross-tabulate $C$ and $L$, as counts and as joint probabilities. Read off both marginals, and check that each one sums to 1. [[w1t6-joint-table]]
 ## Appendix
 
+> "Every week ends with an assumption check: you state one assumption you relied on and say whether your data support it. **Week 1 checks that one model fits the whole distribution**..."
 > 
-> "Every week ends with an assumption check: you state one assumption you relied on and say whether your data support it. **Week 1 checks that one model fits the whole distribution**"
-> 
-> — (EE250_Fall2026_Project.pdf, p.12) [zotero://open-pdf/groups/6771825/items/C39SSY2Y?page=12&annotation=KTRRM5G3]
+> — (EE250_Fall2026_Project.pdf, p.12)[zotero://open-pdf/groups/6771825/items/C39SSY2Y?page=12&annotation=RA7Z2Q9T]
